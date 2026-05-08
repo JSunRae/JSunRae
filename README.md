@@ -4,6 +4,14 @@ Commercial analytics and applied AI leader based in Germany.
 
 I work at the intersection of pricing, forecasting, margin, CRM, KPI governance, and executive decision systems. My background combines commercial operating experience with hands-on delivery in Python, SQL, Power BI, machine learning, and governed LLM workflows.
 
+In addition to public proof-of-work, my private portfolio spans 13 applied AI, analytics, automation, and trading-system repositories, including multi-repo ML research, decision-system tooling, and production-style workflow orchestration.
+
+- 13 curated repos across your Windows and WSL roots
+- 18,530 code/script files
+- 7,090,911 code lines
+- 23,115,828 whitespace-delimited code tokens
+- Countless lines of VBA code over 13 years.
+
 ## Current focus
 
 - Head / Director-track analytics leadership roles
