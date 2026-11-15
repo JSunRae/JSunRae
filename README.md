@@ -1,34 +1,16 @@
 # Jason Rae
 
-Commercial analytics and applied AI leader based in Germany.
+Commercial excellence and analytics leader based in Germany. I combine sales leadership with Power BI reporting and applied AI work. My commercial focus is sales performance, pricing, margin and forecasting.
 
-I work at the intersection of pricing, forecasting, margin, CRM, KPI governance, and executive decision systems. My background combines commercial operating experience with hands-on delivery in Python, SQL, Power BI, machine learning, and governed LLM workflows.
+## Commercial experience
 
-In addition to public proof-of-work, my private portfolio spans 13 applied AI, analytics, automation, and trading-system repositories, including multi-repo ML research, decision-system tooling, and production-style workflow orchestration.
+- Established Inside Sales functions in Australia and the UK. Delivered €3 million in sales growth over two years from UK customers I personally managed.
+- Grew NSW/ACT territory revenue from A$1.4 million to A$4.2 million over two years and turned a loss into a 35% gross margin.
+- Use Power BI for commercial reporting, price and volume analysis, and reporting on CRM opportunities.
 
-- 13 curated repos across your Windows and WSL roots
-- 18,530 code/script files
-- 7,090,911 code lines
-- 23,115,828 whitespace-delimited code tokens
-- Countless lines of VBA code over 13 years.
+## Selected technical work
 
-## Current focus
+- Python-based agent workflows with task state, evaluation and cost tracking.
+- A document intelligence workflow with evidence-linked retrieval, proposed edits, validation and Word export.
 
-- Head / Director-track analytics leadership roles
-- Practical AI adoption with governance
-- Commercial decision-system repair
-- Public-safe proof of build capability
-
-## Proof points
-
-- €3M sales growth delivered against an initial target of approximately €300k
-- €1.3M UK growth in 2023 at roughly 4x target
-- 4% to 57% inside-sales turnaround across 38 markets
-- Led customer-level integration across two acquisitions
-- 10+ years building with TensorFlow since 2016
-
-## Links
-
-- Website: [jasonrae.ai](https://jasonrae.ai)
-- LinkedIn: [linkedin.com/in/jason-c-rae](https://www.linkedin.com/in/jason-c-rae/)
-- AI Consulting repo: [JSunRae/ai-consulting](https://github.com/JSunRae/ai-consulting)
+[Website](https://jasonrae.ai/) · [LinkedIn](https://www.linkedin.com/in/jason-c-rae/) · [Website source](https://github.com/JSunRae/ai-consulting) · [Desktop agent automation repository](https://github.com/JSunRae/desktop-agent-automation)
